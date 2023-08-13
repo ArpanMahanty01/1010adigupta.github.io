@@ -1,0 +1,33 @@
+#root {
+  font-family: Lato, Arial, sans-serif;
+  text-rendering: optimizeLegibility;
+  font-size: 16px;
+  color: #9a9a9a;
+  display: block;
+  margin: 8px;
+}
+
+.App {
+  margin: 50px auto;
+  display: flex;
+  width: 900px;
+  font-family: "Lato", Arial, sans-serif;
+  text-rendering: optimizeLegibility;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
